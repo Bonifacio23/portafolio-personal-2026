@@ -12,10 +12,12 @@
 
 ## 📌 Perfil
 
-Soy estudiante de **Ingeniería de Sistemas** enfocado en construir una base sólida en desarrollo de software.  
-Actualmente estoy desarrollando habilidades en programación, bases de datos y control de versiones.
+Soy estudiante de **Ingeniería de Sistemas**, actualmente en proceso de aprendizaje en desarrollo de software.
 
-Me interesa especializarme en **backend development** y en la creación de sistemas eficientes y escalables.
+Me enfoco en:
+- 🐍 Python (lógica y desarrollo de sistemas)
+- 🗄️ SQL (consultas y procedimientos almacenados)
+- 🔧 Git y GitHub (control de versiones)
 
 ---
 
@@ -35,21 +37,21 @@ Me interesa especializarme en **backend development** y en la creación de siste
 ## 📂 Proyectos
 
 ### 🐍 Sistema de Asistencia (Python)
-Aplicación académica desarrollada en Python para el registro y control de asistencia de estudiantes y docentes.
+Sistema académico para registrar y gestionar asistencia de alumnos y docentes.
 
-**Funciones:**
-- Registro de alumnos y docentes  
+**Características:**
+- Registro de usuarios  
 - Control de asistencia  
-- Lógica estructurada en Python  
+- Lógica en Python  
 
 ---
 
-### 🗄️ SQL - Gestión de Base de Datos
-Prácticas enfocadas en bases de datos relacionales.
+### 🗄️ SQL - Base de Datos
+Ejercicios prácticos en bases de datos.
 
 **Incluye:**
 - Consultas SQL (SELECT, WHERE, ORDER BY)  
-- Funciones agregadas (COUNT, SUM, AVG)  
+- Funciones agregadas  
 - Procedimientos almacenados (nivel básico)  
 
 ---
@@ -63,12 +65,20 @@ Prácticas enfocadas en bases de datos relacionales.
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bonifacio23&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 ## 🎯 Objetivos
 
-- Fortalecer habilidades en backend development  
-- Mejorar dominio de SQL y estructuras de datos  
-- Desarrollar proyectos más completos para portafolio  
-- Dominar Git y GitHub de forma profesional  
+- Mejorar habilidades en backend development  
+- Fortalecer SQL y estructuras de datos  
+- Crear proyectos más completos y profesionales  
+- Dominar Git y GitHub  
 
 ---
 
@@ -80,5 +90,5 @@ Prácticas enfocadas en bases de datos relacionales.
 ---
 
 <p align="center">
-  <i>“Construyendo habilidades reales con cada línea de código”</i>
+  💡 “Construyendo habilidades reales con cada línea de código”
 </p>
