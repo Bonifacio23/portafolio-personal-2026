@@ -75,13 +75,10 @@ Prácticas enfocadas en bases de datos relacionales.
 ## 📫 Contacto
 
 - GitHub: https://github.com/Bonifacio23  
-- Email: tuemail@example.com  
+- Email: jesusbonifaciocotrina@gmail.com  
 
 ---
 
-<p align="center">
-  <i>“Construyendo habilidades reales con cada línea de código”</i>
-</p>
 <p align="center">
   <i>“Construyendo habilidades reales con cada línea de código”</i>
 </p>
