@@ -2,7 +2,7 @@
 
 # 
 
-# Estudiante de Ingeniería de Sistemas con interés en programación, bases de datos y desarrollo de software.
+# Estudiante de Ingeniería de Sistemas.
 
 # 
 
@@ -34,17 +34,9 @@
 
 # \- Procedimientos almacenados
 
-# \- Triggers
-
 # 
 
 # \### BPMN
 
 # \- Diagramas de procesos empresariales
-
-# 
-
-# \## Contacto
-
-# \- GitHub: https://github.com/Bonifacio23
 
