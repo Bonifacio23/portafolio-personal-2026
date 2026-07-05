@@ -76,7 +76,3 @@ Seguir mejorando mis habilidades en desarrollo backend, bases de datos y buenas 
 💡 “Aprendiendo cada día un poco más”
 </p>
 
-# \### BPMN
-
-# \- Diagramas de procesos empresariales
-
