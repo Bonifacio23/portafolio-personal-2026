@@ -19,7 +19,7 @@ Me interesa especializarme en **backend development** y en la creación de siste
 
 ---
 
-## ⚙️ Stack Tecnológico
+## ⚙️ Tecnologías
 
 <p align="center">
 
@@ -37,7 +37,7 @@ Me interesa especializarme en **backend development** y en la creación de siste
 ### 🐍 Sistema de Asistencia (Python)
 Aplicación académica desarrollada en Python para el registro y control de asistencia de estudiantes y docentes.
 
-**Funciones principales:**
+**Funciones:**
 - Registro de alumnos y docentes  
 - Control de asistencia  
 - Lógica estructurada en Python  
@@ -45,40 +45,43 @@ Aplicación académica desarrollada en Python para el registro y control de asis
 ---
 
 ### 🗄️ SQL - Gestión de Base de Datos
-Prácticas enfocadas en el manejo de bases de datos relacionales.
+Prácticas enfocadas en bases de datos relacionales.
 
 **Incluye:**
-- Consultas SQL (SELECT, WHERE, JOIN básico)  
+- Consultas SQL (SELECT, WHERE, ORDER BY)  
 - Funciones agregadas (COUNT, SUM, AVG)  
 - Procedimientos almacenados (nivel básico)  
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bonifacio23&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bonifacio23&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
 ## 🎯 Objetivos
 
-- Fortalecer habilidades en **backend development**  
-- Mejorar dominio de **SQL y estructuras de datos**  
+- Fortalecer habilidades en backend development  
+- Mejorar dominio de SQL y estructuras de datos  
 - Desarrollar proyectos más completos para portafolio  
-- Dominar buenas prácticas con Git y GitHub  
+- Dominar Git y GitHub de forma profesional  
 
 ---
 
 ## 📫 Contacto
 
-- GitHub: https://github.com/TUUSUARIO  
+- GitHub: https://github.com/Bonifacio23  
 - Email: tuemail@example.com  
 
 ---
 
+<p align="center">
+  <i>“Construyendo habilidades reales con cada línea de código”</i>
+</p>
 <p align="center">
   <i>“Construyendo habilidades reales con cada línea de código”</i>
 </p>
