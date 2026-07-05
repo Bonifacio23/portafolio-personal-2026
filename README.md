@@ -1,31 +1,30 @@
-# 👨‍💻 Felix Bonifacio
+<h1 align="center">👨‍💻 Felix Bonifacio</h1>
 
 <p align="center">
-  Estudiante de Ingeniería de Sistemas | Aprendiendo desarrollo backend y bases de datos
+  <b>Estudiante de Ingeniería de Sistemas</b> • Backend en formación • Apasionado por la programación
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=00C2FF&center=true&vCenter=true&width=500&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Aprendiendo+Python+y+SQL;Iniciando+en+Git+y+GitHub" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3500&color=00C2FF&center=true&vCenter=true&width=600&lines=Ingenier%C3%ADa+de+Sistemas;Python+%7C+SQL+%7C+Git+%7C+GitHub;Construyendo+mi+camino+como+desarrollador+backend" />
 </p>
 
 ---
 
-## 🚀 Sobre mí
-Soy estudiante de **Ingeniería de Sistemas** y estoy comenzando mi camino en el desarrollo de software.
+## 📌 Perfil
 
-Actualmente me enfoco en:
-- 🐍 Lógica de programación con Python  
-- 🗄️ Bases de datos con SQL  
-- 🔧 Uso de Git y GitHub para control de versiones  
+Soy estudiante de **Ingeniería de Sistemas** enfocado en construir una base sólida en desarrollo de software.  
+Actualmente estoy desarrollando habilidades en programación, bases de datos y control de versiones.
+
+Me interesa especializarme en **backend development** y en la creación de sistemas eficientes y escalables.
 
 ---
 
-## 🛠️ Tecnologías que estoy aprendiendo
+## ⚙️ Stack Tecnológico
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
@@ -36,43 +35,50 @@ Actualmente me enfoco en:
 ## 📂 Proyectos
 
 ### 🐍 Sistema de Asistencia (Python)
-Proyecto académico en Python para registrar y gestionar asistencia de alumnos y docentes.
+Aplicación académica desarrollada en Python para el registro y control de asistencia de estudiantes y docentes.
 
-- Registro de estudiantes y docentes  
-- Control básico de asistencia  
-- Lógica de programación estructurada  
+**Funciones principales:**
+- Registro de alumnos y docentes  
+- Control de asistencia  
+- Lógica estructurada en Python  
 
 ---
 
-### 🗄️ SQL - Prácticas de Base de Datos
-Ejercicios y prácticas realizadas en SQL.
+### 🗄️ SQL - Gestión de Base de Datos
+Prácticas enfocadas en el manejo de bases de datos relacionales.
 
-- Consultas básicas (SELECT, WHERE, ORDER BY)  
-- Uso de funciones agregadas  
+**Incluye:**
+- Consultas SQL (SELECT, WHERE, JOIN básico)  
+- Funciones agregadas (COUNT, SUM, AVG)  
 - Procedimientos almacenados (nivel básico)  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
-## 🎯 Objetivo
-Seguir mejorando mis habilidades en desarrollo backend, bases de datos y buenas prácticas de programación, construyendo proyectos cada vez más completos.
+## 🎯 Objetivos
+
+- Fortalecer habilidades en **backend development**  
+- Mejorar dominio de **SQL y estructuras de datos**  
+- Desarrollar proyectos más completos para portafolio  
+- Dominar buenas prácticas con Git y GitHub  
 
 ---
 
 ## 📫 Contacto
+
 - GitHub: https://github.com/TUUSUARIO  
 - Email: tuemail@example.com  
 
 ---
 
 <p align="center">
-💡 “Aprendiendo cada día un poco más”
+  <i>“Construyendo habilidades reales con cada línea de código”</i>
 </p>
-
